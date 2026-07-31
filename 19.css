@@ -1,0 +1,27 @@
+.container{
+    background-color: darkblue;width:100vw;height: 100vh;
+    display: flex;justify-content: center;align-items: center;
+    font-size: 200px;flex-direction: column;
+    
+}
+.arvan9{margin-bottom: 30px;
+    
+    
+}
+.tovc1{
+    background-color: blue;width: 300px;height: 100px;
+    border-color: blue;
+}
+.tovc2{
+    background-color:darkblue;width: 300px;height: 100px;
+    display:flex;justify-content: center;align-items: center;
+    
+}
+.tovc3{
+    background-color: blue;width: 300px;height: 100px;
+    border-color: blue
+}
+.tovcnuud{
+    display: flex;flex-direction: row;gap:30px
+    ;
+}
